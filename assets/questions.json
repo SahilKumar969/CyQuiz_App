@@ -1,0 +1,103 @@
+[
+  {
+    "question": "What is malware?",
+    "options": [
+      "A type of secure software",
+      "A malicious software that harms systems",
+      "A software update",
+      "A type of network protocol"
+    ],
+    "answer": "A malicious software that harms systems"
+  },
+  {
+    "question": "Which of these is an example of social engineering?",
+    "options": [
+      "Using antivirus software",
+      "Phishing emails tricking users to reveal data",
+      "Encrypting files",
+      "Using a firewall"
+    ],
+    "answer": "Phishing emails tricking users to reveal data"
+  },
+  {
+    "question": "What does HTTPS stand for?",
+    "options": [
+      "HyperText Transfer Protocol Secure",
+      "High-Tech Transport Protocol System",
+      "Hyper Transfer Text Protocol",
+      "Highly Trusted Protocol System"
+    ],
+    "answer": "HyperText Transfer Protocol Secure"
+  },
+  {
+    "question": "What is the purpose of a firewall?",
+    "options": [
+      "To physically block hackers",
+      "To protect a network by filtering traffic",
+      "To speed up internet connection",
+      "To store passwords"
+    ],
+    "answer": "To protect a network by filtering traffic"
+  },
+  {
+    "question": "What is a VPN used for?",
+    "options": [
+      "To create a secure connection over the internet",
+      "To remove malware",
+      "To block ads",
+      "To delete cookies"
+    ],
+    "answer": "To create a secure connection over the internet"
+  },
+  {
+    "question": "Which of these is a strong password?",
+    "options": [
+      "password123",
+      "Qwerty1234",
+      "$3cUr3P@ssw0rd!",
+      "123456789"
+    ],
+    "answer": "$3cUr3P@ssw0rd!"
+  },
+  {
+    "question": "What is two-factor authentication (2FA)?",
+    "options": [
+      "Using two passwords for an account",
+      "A security method requiring two forms of verification",
+      "An advanced form of CAPTCHA",
+      "A firewall upgrade"
+    ],
+    "answer": "A security method requiring two forms of verification"
+  },
+
+  {
+    "question": "What is spyware?",
+    "options": [
+      "Software that secretly gathers user data",
+      "An anti-virus program",
+      "A type of firewall",
+      "An encrypted messaging service"
+    ],
+    "answer": "Software that secretly gathers user data"
+  },
+  {
+    "question": "Why should you avoid using public Wi-Fi for sensitive transactions?",
+    "options": [
+      "It is always slow",
+      "It may not be available",
+      "It can expose data to hackers",
+      "It is only useful for gaming"
+    ],
+    "answer": "It can expose data to hackers"
+  },
+  {
+    "question": "Which of these is a common social engineering technique?",
+    "options": [
+      "Brute-force attack",
+      "Phishing emails and phone scams",
+      "DDoS attack",
+      "Installing security patches"
+    ],
+    "answer": "Phishing emails and phone scams"
+  }
+]
