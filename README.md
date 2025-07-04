@@ -6,7 +6,6 @@ CyQuiz App 🧠⚡
 
 An interactive quiz application built with modern web technologies to test knowledge across various domains.
 
-https://via.placeholder.com/800x400/2962FF/FFFFFF?text=CyQuiz+App+Preview
 
 ✨ Features
 🎯 Multiple quiz categories
@@ -29,23 +28,6 @@ Development
 🚀 Getting Started
 Prerequisites
 Modern web browser
-
-Git (optional)
-
-Installation
-Clone the repository:
-
-bash
-git clone https://github.com/sahilgupta969/CyQuiz_App.git
-cd CyQuiz_App
-Open in browser:
-
-bash
-open index.html  # On macOS
- or
-start index.html # On Windows
-
-
 
 
 🏗 Project Structure
